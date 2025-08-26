@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LinkedDequeTest
+comment0.text=\r\n\ The\ test\ class\ LinkedDequeTest.\r\n\r\n\ @author\ Victor\ Hernandez\ Jr\r\n\ @version\ November\ 11,\ 2022\r\n
+comment1.params=
+comment1.target=LinkedDequeTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ LinkedDequeTest\r\n
+comment2.params=
+comment2.target=void\ pushFrontTest()
+comment2.text=\r\n\ Tests\ pushFront\ method\ is\ called\ twice\ and\ uses\ getLength\ and\ size\ methods\ to\ compare\ numbers\ of\ nodes\ and\ elements\r\n
+comment3.params=
+comment3.target=void\ pushBackTest()
+comment3.text=\r\n\ Tests\ pushFront\ method\ is\ called\ enough\ to\ create\ two\ nodes;\r\n\ uses\ getLength\ and\ size\ methods\ to\ compare\ numbers\ of\ nodes\ and\ elements\r\n
+comment4.params=
+comment4.target=void\ popAndPeekFrontTest()
+comment4.text=\r\n\ Creates\ a\ linked\ deque\ of\ integers\ going\ down\ the\ even\ numbers\ from\ 20\ until\ it\ reaches\ 0\ and\ goes\ up\ odd\ numbers.\r\n\ Pops\ until\ there\ are\ only\ 4\ integers\ left\ in\ the\ deque.\r\n
+comment5.params=
+comment5.target=void\ popAndPeekBackTest()
+comment5.text=\r\n\ Creates\ a\ linked\ deque\ of\ integers\ pushing\ the\ numbers\ divisible\ by\ 4\ from\ 16\ to\ the\ front\ and\ pushes\ the\ rest\ to\ the\ back.\r\n\ Pops\ until\ there\ are\ only\ 8\ integers\ left\ in\ the\ deque.\r\n
+numComments=6

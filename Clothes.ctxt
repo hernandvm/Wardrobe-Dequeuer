@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Clothes
+comment0.text=\r\n\ Creates\ an\ object\ representing\ a\ cloth\ containing\ its\ purchase\ date,\r\n\ price,\ and\ category\ (type\ of\ clothing).\ This\ class\ implements\ \r\n\ Comparable\ interface\ for\ its\ type\ and\ provides\ a\ method\ to\ \r\n\ compare\ an\ object\ with\ another\ of\ the\ same\ class.\r\n\r\n\ @author\ Victor\ Hernandez\ Jr\r\n\ @version\ November\ 11,\ 2022\r\n
+comment1.params=pDate\ price\ category
+comment1.target=Clothes(java.lang.String,\ double,\ Clothes.Category)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Clothes\r\n
+comment2.params=cloth2
+comment2.target=int\ compareTo(Clothes)
+comment2.text=\r\n\ Compares\ purchase\ date\ to\ that\ of\ another\ specified\ cloth\r\n\ \r\n\ @param\ cloth2\ element\ to\ compare\ to\r\n\ @return\ integer\ value\ representing\ whether\ cloth\ is\ greater\ than,\r\n\ less\ than,\ or\ equal\ to\ specified\ cloth.\r\n
+comment3.params=
+comment3.target=boolean\ isPricey()
+comment3.text=\r\n\ Verifies\ if\ cloth\ is\ considered\ pricey\ or\ not\r\n\ \r\n\ @return\ whether\ cloth\ meets\ the\ threshold\ for\ price\ based\ on\r\n\ its\ category\ of\ clothing\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Returns\ string\ representation\ of\ object\r\n\ \r\n\ @return\ representation\ of\ object\r\n
+numComments=5

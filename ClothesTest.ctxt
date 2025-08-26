@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ClothesTest
+comment0.text=\r\n\ The\ test\ class\ ClothTest.\r\n\r\n\ @author\ \ Victor\ Hernandez\ Jr\r\n\ @version\ November\ 11,\ 2022\r\n
+comment1.params=
+comment1.target=ClothesTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ ClothTest\r\n
+comment2.params=
+comment2.target=void\ compareToTest1()
+comment2.text=\r\n\ Tests\ to\ see\ if\ older\ dates\ are\ successfully\ compared\ to\ \r\n\ more\ recent\ dates,\ or\ if\ dates\ are\ equal,\ or\ if\ date\ is\r\n\ more\ recent\ than\ date\ compared\ to;\ also\ checks\ for\ exception\ thrown\r\n\ if\ date\ entered\ is\ not\ as\ integer\ MMDDYYYY.\r\n
+comment3.params=
+comment3.target=void\ compareToTest2()
+comment3.text=\r\n\ Test\ compareTo\ method\ to\ return\ the\ proper\ value\ of\ comparing\r\n\ dates\ by\ year,\ month,\ or\ day.\r\n
+comment4.params=
+comment4.target=void\ isPriceyTest1()
+comment4.text=\r\n\ Tests\ that\ clothes\ are\ successfully\ considered\ pricey\ if\ they\r\n\ meet\ the\ treshold\ for\ their\ certain\ category.\r\n
+comment5.params=
+comment5.target=void\ toStringTest1()
+comment5.text=\r\n\ Tests\ to\ see\ that\ toString\ returns\ the\ expected\ string\ for\ a\r\n\ clothing\ item.\r\n
+numComments=6
